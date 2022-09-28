@@ -698,6 +698,5 @@ disabled = true
 texture = ExtResource( 5 )
 texture_scale = 3.94
 shadow_enabled = true
-shadow_gradient_length = 3.0
 
 [editable path="HitboxPivot/Hitbox"]
